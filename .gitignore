@@ -11,3 +11,5 @@ mkrelease.sh
 release
 myredis.conf
 misc/*
+.idea/*
+*.d
